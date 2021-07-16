@@ -1,0 +1,9 @@
+{
+    "name": "workspace",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "postinstall": "node ./workspacePostInstall.js"
+    }
+  }
+  
